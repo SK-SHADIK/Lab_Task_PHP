@@ -13,7 +13,7 @@ require '../controller/loginController.php';
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>login form</title>
 
-   <link rel="stylesheet" href="../Asset/Css/style.css">
+   <link rel="stylesheet" href="../Asset/Css/style1.css">
 
 </head>
 <body>
